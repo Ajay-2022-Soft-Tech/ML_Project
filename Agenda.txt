@@ -1,0 +1,7 @@
+Agenda
+
+1- Set up the GitHub {Repository}
+  
+  a) new Environment conda create -p venv python==3.8 -y
+  b) setup.py
+  c) requirement.txt
