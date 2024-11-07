@@ -2,4 +2,4 @@ pandas
 numpy
 seaborn
 scikit-learn
--e .
+-e . # it will trigger seyup.py and run the script and then exit the container
