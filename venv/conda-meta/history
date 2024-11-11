@@ -1,4 +1,4 @@
-==> 2024-11-04 21:36:31 <==
+==> 2024-11-10 05:52:34 <==
 # cmd: D:\INSTALLED_SOFTWARE\ANACONDA\Scripts\conda-script.py create -p venv python==3.8 -y
 # conda version: 24.9.2
 +defaults/win-64::ca-certificates-2024.9.24-haa95532_0
